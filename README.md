@@ -1,4 +1,4 @@
-# Threat Intelligence Exchange
+# Threat Exchange
 
 本项目所做，目标是在威胁情报领域，用最简易的收集，产生有价值的交换。
 
