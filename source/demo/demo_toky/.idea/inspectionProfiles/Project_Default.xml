@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="12">
+            <item index="0" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="1" class="java.lang.String" itemvalue="jieba" />
+            <item index="2" class="java.lang.String" itemvalue="elasticsearch2" />
+            <item index="3" class="java.lang.String" itemvalue="elasticsearch5" />
+            <item index="4" class="java.lang.String" itemvalue="elasticsearch6" />
+            <item index="5" class="java.lang.String" itemvalue="sqlalchemy" />
+            <item index="6" class="java.lang.String" itemvalue="pandas" />
+            <item index="7" class="java.lang.String" itemvalue="IPy" />
+            <item index="8" class="java.lang.String" itemvalue="lxml" />
+            <item index="9" class="java.lang.String" itemvalue="tldextract" />
+            <item index="10" class="java.lang.String" itemvalue="qqwry-py3" />
+            <item index="11" class="java.lang.String" itemvalue="xlrd" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
