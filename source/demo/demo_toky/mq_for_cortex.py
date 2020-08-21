@@ -44,11 +44,11 @@ def analyzeIOC(ipaddress):
 
 # 待分析任务消息队列
 
-task_queue = greenstalk.Client('127.0.0.1', 11300,watch='cortex-task')
+task_queue = greenstalk.Client('127.0.0.1', 11300, watch='cortex-task')
 
 # 分析结果消息队列
 
-result_queue = greenstalk.Client('127.0.0.1', 11300,use='cortex-result')
+result_queue = greenstalk.Client('127.0.0.1', 11300, use='cortex-result')
 
 while True:
     #读取消息队列中等待分析的ip
