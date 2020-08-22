@@ -1,2 +1,5 @@
 sklearn
 gensim
+greenstalk
+cortex4py
+json
